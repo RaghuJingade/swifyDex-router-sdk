@@ -1,7 +1,8 @@
-# @uniswap/router-sdk - Now at `Uniswap/sdks`
+# SwifyDex router sdk
 
-All versions after 1.9.0 of this SDK can be found in the [SDK monorepo](https://github.com/Uniswap/sdks/tree/main/sdks/router-sdk)! Please file all future issues, PR’s, and discussions there.
+## Installation
 
-### Old Issues and PR’s
+To install the package, use npm or yarn:
 
-If you have an issue or open PR that is still active on this SDK in this repository, please recreate it in the new repository. Some existing issues and PR’s may be automatically migrated by the Uniswap Labs team.
+```bash
+npm install swifydex-router-sdk
